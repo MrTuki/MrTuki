@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrTuki
 - 👀 I’m interested in Teachning
-- 🌱 I’m currently learning C99
+- 🌱 I’m currently learning C++ / Java
 - 📫 How to reach me ausman@htwsaar.de
 
 <!---
